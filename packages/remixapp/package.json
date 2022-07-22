@@ -40,5 +40,8 @@
       }
     }
   },
-  "gitHead": "bd20e0902026e7f3d79418e46adbd921091e8979"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@and-lz"
+  },
+  "repository": "https://github.com/and-lz/monorepo-lerna-playground.git"
 }
