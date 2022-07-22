@@ -2,6 +2,7 @@
   "name": "@and-lz/footer",
   "version": "1.0.3",
   "main": "dist/index.js",
+  "teste": "",
   "scripts": {
     "build": "rm -rf dist && rollup --config",
     "test": "jest"
