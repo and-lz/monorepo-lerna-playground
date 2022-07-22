@@ -43,5 +43,6 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@and-lz"
   },
-  "repository": "https://github.com/and-lz/monorepo-lerna-playground.git"
+  "repository": "https://github.com/and-lz/monorepo-lerna-playground.git",
+  "gitHead": "c8bae3191414db465db44073ac045e82ef78431c"
 }
