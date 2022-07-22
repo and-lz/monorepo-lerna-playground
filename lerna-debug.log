@@ -1,0 +1,8 @@
+40 warn complete Waiting for 1 child process to exit. CTRL-C to exit immediately.
+41 error Error: Command failed with exit code 128: git tag footer@1.0.1 -m footer@1.0.1
+41 error fatal: tag 'footer@1.0.1' already exists
+41 error     at makeError (/Users/thoughtworks/workspace/getting-started-example/node_modules/execa/lib/error.js:60:11)
+41 error     at handlePromise (/Users/thoughtworks/workspace/getting-started-example/node_modules/execa/index.js:118:26)
+41 error     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+41 error     at async Promise.all (index 0)
+41 error     at async Promise.all (index 0)
