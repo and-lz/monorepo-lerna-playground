@@ -1,6 +1,5 @@
 {
   "name": "remixapp",
-  "private": true,
   "sideEffects": false,
   "scripts": {
     "build": "remix build",
