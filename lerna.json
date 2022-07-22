@@ -3,5 +3,8 @@
     "packages/*"
   ],
   "version": "1.0.1",
-  "useNx": true
+  "useNx": true,
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
