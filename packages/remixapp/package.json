@@ -1,6 +1,7 @@
 {
   "name": "remixapp",
   "sideEffects": false,
+  "version": "1.0.0",
   "scripts": {
     "build": "remix build",
     "dev": "remix dev",
@@ -44,5 +45,5 @@
     "registry": "https://npm.pkg.github.com/@and-lz"
   },
   "repository": "https://github.com/and-lz/monorepo-lerna-playground.git",
-  "gitHead": "c8bae3191414db465db44073ac045e82ef78431c"
+  "gitHead": "563fd918bb745a46c9c556dcfa94eded7e668036"
 }
