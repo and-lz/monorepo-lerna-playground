@@ -1,6 +1,6 @@
 {
   "name": "@and-lz/header",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "dist/index.js",
   "scripts": {
     "build": "rm -rf dist && rollup --config",
@@ -23,5 +23,5 @@
     "registry": "https://npm.pkg.github.com/@and-lz"
   },
   "repository": "https://github.com/and-lz/monorepo-lerna-playground.git",
-  "gitHead": "bc858ee7c9d532c38abacb9a7ea364163e8e0f42"
+  "gitHead": "d402b1cfd516a9c4e7056a5379b449428788891c"
 }
