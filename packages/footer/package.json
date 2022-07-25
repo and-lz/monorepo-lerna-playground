@@ -1,5 +1,5 @@
 {
-  "name": "footer",
+  "name": "@and-lz/footer",
   "version": "1.0.2",
   "main": "dist/index.js",
   "scripts": {

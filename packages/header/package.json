@@ -1,5 +1,5 @@
 {
-  "name": "header",
+  "name": "@and-lz/header",
   "version": "1.0.2",
   "main": "dist/index.js",
   "scripts": {
